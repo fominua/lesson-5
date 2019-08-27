@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Franklin Gothic';
+    src: url('fonts/subset-FranklinGothic-Medium.eot');
+    src: url('fonts/subset-FranklinGothic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/subset-FranklinGothic-Medium.woff2') format('woff2'),
+        url('fonts/subset-FranklinGothic-Medium.woff') format('woff'),
+        url('fonts/subset-FranklinGothic-Medium.ttf') format('truetype'),
+        url('fonts/subset-FranklinGothic-Medium.svg#FranklinGothic-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'Franklin Gothic', sans-serif;
+}
