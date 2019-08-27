@@ -13,4 +13,33 @@
 
 body {
     font-family: 'Franklin Gothic', sans-serif;
+    background-color: #141b23;
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    color: #ffffff;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    font-weight: 500;
+}
+
+.link {
+    color: #8d96a5;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.active {
+    font-size: 17px;
+    margin-right: 25px;
+}
+
+.nav {
+    margin-top: 65px;
+    margin-left: 55px;
+}
+
+.text {
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
 }
